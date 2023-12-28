@@ -1,3 +1,10 @@
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoprogra&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomoprogra&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoprogra&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomoprogra&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomoprogra&theme=gruvbox&utcOffset=9)
+
 <p align="left">
   <a href="https://github.com/tomoprogra">
     <img height="20" src="https://komarev.com/ghpvc/?username=tomoprogra" />
@@ -12,10 +19,3 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Tomoya_Kageyama/contributions.svg" />
   </a>
 </p>
-
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoprogra&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomoprogra&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoprogra&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomoprogra&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomoprogra&theme=gruvbox&utcOffset=9)
