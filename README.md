@@ -1,4 +1,3 @@
-## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoprogra&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomoprogra&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomoprogra&theme=gruvbox)
